@@ -8,7 +8,6 @@ root.render(
     <div>
         <Counter />
         <br/>
-        <hr/>
         <Generator />
       
     </div>
